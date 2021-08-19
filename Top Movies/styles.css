@@ -1,0 +1,33 @@
+body {    
+  background: url("collage.jpg") no-repeat center fixed;     
+  background-size: cover;
+}
+
+h1 
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:500px;
+    color: white;
+}
+
+table {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border:2px;
+  background-image: -moz-linear-gradient(to bottom,rgb(0, 255, 98) 0%,rgb(0,38,255)100%);
+  background-origin: border-box; 
+  border-spacing:5px;
+}
+
+th {
+  font-weight: 800;
+  background-image: linear-gradient(to bottom, rgb(0, 64, 240)0%, rgb(4, 76, 99)00%);
+  color: #ffffff;
+}
+
+td{
+   background: white;
+   text-align:  center;
+  }
+
+
+ 
